@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="well_height_measure.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3844"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3844-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3844-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="401.08893"
+     inkscape:cy="668.23722"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 641.71429,222.36218 c 0,3.3771 -1.42337,2.85715 -4.28572,2.85715 -0.47619,0 1.42857,0.47619 1.42857,0 0,-0.4762 -1.00265,-0.21296 -1.42857,0 -3.53058,1.76528 0.49311,1.42857 -2.85714,1.42857 -4.76191,0 -9.52381,0 -14.28572,0 -2.85714,0 -5.71428,0 -8.57142,0 -0.47619,0 -0.95238,0 -1.42858,0 -0.47619,0 -1.00265,0.21296 -1.42857,0 -1.20467,-0.60234 -1.65246,-2.25481 -2.85714,-2.85715 -0.89789,-0.44894 -4.8164,0.44895 -5.71429,0 -0.60233,-0.30117 -0.82623,-1.1274 -1.42857,-1.42857 -0.40886,-0.20443 -6.37969,0 -7.14285,0 -3.33334,0 -6.66667,0 -10,0 -0.64337,0 -3.85096,0.21738 -4.28572,0 -0.60234,-0.30117 -0.78969,-1.21561 -1.42857,-1.42857 -1.35526,-0.45175 -2.85714,0 -4.28571,0 -3.33334,0 -6.66667,0 -10,0 -8.09524,0 -16.19048,0 -24.28572,0 -2.85714,0 -5.71428,0 -8.57143,0 -1.42857,0 -2.89979,-0.34648 -4.28571,0 -1.033,0.25825 -1.84699,1.09185 -2.85714,1.42857 -0.806,0.26867 -3.34699,0 -4.28572,0 -15.23809,0 -30.47619,0 -45.71428,0 -4.28572,0 -8.57143,0 -12.85715,0 -1.50431,0 -5.959,-0.29596 -7.14285,0 -1.46089,0.36522 -2.80036,1.18101 -4.28572,1.42857 -2.34856,0.39143 -4.7619,0 -7.14286,0 -0.56473,0 -6.53273,-0.30506 -7.14285,0 -5.55089,2.77545 7.09499,1.42858 -7.14286,1.42858 -1.27775,0.42591 -1.60661,2.35692 -2.85714,2.85714 -1.76853,0.70741 -3.80953,0 -5.71429,0 -3.80952,0 -7.61905,0 -11.42857,0 -11.42857,0 -22.85714,0 -34.28571,0 -3.33334,0 -6.66667,0 -10,0 -0.64337,0 -3.85096,-0.21738 -4.28572,0 -0.60234,0.30117 -0.82623,1.1274 -1.42857,1.42857 -0.85184,0.42592 -2.18371,-0.67344 -2.85714,0 -0.33672,0.33672 0.33671,1.09185 0,1.42857 -0.48175,0.48175 -2.3754,-0.48174 -2.85715,0 -0.33671,0.33672 0.33672,1.09185 0,1.42857 -0.33671,0.33672 -0.95238,0 -1.42857,0 -1.90476,0 -3.80952,0 -5.71428,0 -0.95238,0 -1.92326,0.18678 -2.85715,0 -1.92525,-0.38505 -3.82644,-0.88919 -5.71428,-1.42857 -1.44791,-0.41369 -2.795,-1.21561 -4.28572,-1.42857 -1.88561,-0.26937 -3.84651,0.37355 -5.71428,0 -2.95321,-0.59064 -5.60071,-2.36202 -8.57143,-2.85714 -2.81827,-0.46971 -5.76037,0.5111 -8.57143,0 -2.523,-0.45873 -4.68664,-2.12028 -7.14286,-2.85715 -2.3257,-0.69771 -4.7335,-1.1274 -7.14285,-1.42857 -2.83508,-0.35438 -5.76977,0.56033 -8.57143,0 -1.04412,-0.20882 -1.84699,-1.09185 -2.85714,-1.42857 -0.83183,-0.27728 -7.58847,0 -8.57143,0 -1.90476,0 -3.80953,0 -5.71429,0 l 0,207.14286 16.42857,33.57143 99.28572,8.57142 175,0 56.42857,-5.71428 20.71428,-24.28572 z"
+       id="path3005"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 266.33431,139.4804 0,278.57143 c 0,54.54824 52.85714,51.42857 52.85714,51.42857 l 265.71429,0 c 0,0 54.87745,1.6911 52.85714,-52.85714 l 0,-276.42857"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 223.14286,138.07647 c 0,0 34.28572,-35.71429 68.57143,0 l 0,282.85714 c 5.71429,48.57143 37.14285,48.57143 37.14285,48.57143"
+       id="path3007"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#ff6600;stroke:#00ff00;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3779"
+       width="42.426407"
+       height="43.436558"
+       x="330.35541"
+       y="198.78328"
+       ry="21.213203" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#0000ff;stroke:#00ff00;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3781"
+       sodipodi:cx="235.36554"
+       sodipodi:cy="468.99908"
+       sodipodi:rx="15.152288"
+       sodipodi:ry="13.637059"
+       d="m 250.51783,468.99908 a 15.152288,13.637059 0 1 1 -30.30458,0 15.152288,13.637059 0 1 1 30.30458,0 z"
+       transform="translate(96,0)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3777"
+       sodipodi:cx="217.14285"
+       sodipodi:cy="224.50504"
+       sodipodi:rx="37.14286"
+       sodipodi:ry="12.142858"
+       d="m 254.28571,224.50504 a 37.14286,12.142858 0 1 1 -74.28572,0 37.14286,12.142858 0 1 1 74.28572,0 z"
+       transform="translate(103.79007,15.780638)" />
+    <path
+       transform="translate(116.34875,-157.35119)"
+       sodipodi:type="arc"
+       style="fill:#0000ff;stroke:#00ff00;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3781-7-4"
+       sodipodi:cx="235.36554"
+       sodipodi:cy="468.99908"
+       sodipodi:rx="15.152288"
+       sodipodi:ry="13.637059"
+       d="m 250.51783,468.99908 a 15.152288,13.637059 0 1 1 -30.30458,0 15.152288,13.637059 0 1 1 30.30458,0 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 353.08383,221.00664 335.87571,0"
+       id="path3821"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 352.57875,312.93052 334.36049,0"
+       id="path3823"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 330.35539,470.51432 355.5737,0"
+       id="path3825"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 654.61436,219.99649 0,93.94418"
+       id="path3827"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 675.82756,222.01679 0,247.48737"
+       id="path3829"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="657.64484"
+       y="272.52441"
+       id="text4275"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4277"
+         x="657.64484"
+         y="272.52441">h1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="678.85803"
+       y="362.42801"
+       id="text4279"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4281"
+         x="678.85803"
+         y="362.42801">h2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="367.73102"
+       y="304.8493"
+       id="text4287"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4289"
+         x="367.73102"
+         y="304.8493">p1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="349.0791"
+       y="459.82104"
+       id="text4291"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4293"
+         x="349.0791"
+         y="459.82104">p2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 351.71429,309.88831 0,-174.31184 c -110,-57.142857 -140,0 -140,0"
+       id="path4295"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="fill:#ff6600;stroke:#00ff00;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4297"
+       width="70.714287"
+       height="43.57143"
+       x="178.85715"
+       y="130.93361"
+       ry="21.213203" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="182.42857"
+       y="157.36218"
+       id="text4299"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4301"
+         x="182.42857"
+         y="157.36218">ESP8266</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 394.57143,156.6479 -27.85714,40"
+       id="path4303"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="375.28571"
+       y="155.21933"
+       id="text4487"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4489"
+         x="375.28571"
+         y="155.21933">floater</tspan></text>
+    <rect
+       style="fill:#999999;stroke:#333333;stroke-width:1.06245422;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4491"
+       width="62.629459"
+       height="66.135612"
+       x="194.51309"
+       y="118.34327"
+       ry="0"
+       transform="matrix(1,0,-0.46389601,0.88588966,0,0)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 138.42641,164.4381 0,13.13198 73.74113,0 0,-6.06092"
+       id="path4493"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="140.28572"
+       y="124.50504"
+       id="text4497"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4499"
+         x="140.28572"
+         y="124.50504">Solar</tspan><tspan
+         sodipodi:role="line"
+         x="140.28572"
+         y="143.25504"
+         id="tspan4501">Panel</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 203.85714,126.6479 27.85715,-52.142861 1.42857,26.428571 35.71428,-53.571428 -1.42857,27.857142 34.28572,-47.857142"
+       id="path4503"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="289.94928"
+       y="65.443146"
+       id="text4505"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4507"
+         x="289.94928"
+         y="65.443146">Wifi comms</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 216.20815,371.51936 66.67007,-84.85281"
+       id="path4509"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="124.28427"
+       y="351.31628"
+       id="text4511"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4513"
+         x="124.28427"
+         y="351.31628">Main wire</tspan><tspan
+         sodipodi:role="line"
+         x="124.28427"
+         y="370.06628"
+         id="tspan4515">(placed until</tspan><tspan
+         sodipodi:role="line"
+         x="124.28427"
+         y="388.81628"
+         id="tspan4517">sensor touchs</tspan><tspan
+         sodipodi:role="line"
+         x="124.28427"
+         y="407.56628"
+         id="tspan4519">botton - then</tspan><tspan
+         sodipodi:role="line"
+         x="124.28427"
+         y="426.31628"
+         id="tspan4521">strap it).</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 428.47566,97.182432 338.57209,118.39564"
+       id="path4509-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="431.37067"
+       y="80.595436"
+       id="text4729"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4731"
+         x="431.37067"
+         y="80.595436">Secondary wire</tspan><tspan
+         sodipodi:role="line"
+         x="431.37067"
+         y="99.345436"
+         id="tspan4733">(give some slack - 1, 2 meters</tspan><tspan
+         sodipodi:role="line"
+         x="431.37067"
+         y="118.09544"
+         id="tspan4735">to support well height fluctuations)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 224.14593,225.39299 90.91374,-5.05076"
+       id="path4509-5-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="79.837563"
+       y="206.8645"
+       id="text4761"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4763"
+         x="79.837563"
+         y="206.8645">Cable tie - straps</tspan><tspan
+         sodipodi:role="line"
+         x="79.837563"
+         y="225.6145"
+         id="tspan4765">main and secondary</tspan><tspan
+         sodipodi:role="line"
+         x="79.837563"
+         y="244.3645"
+         id="tspan4767">wires while giving slack</tspan><tspan
+         sodipodi:role="line"
+         x="79.837563"
+         y="263.1145"
+         id="tspan4769">(avoids secondary wire</tspan><tspan
+         sodipodi:role="line"
+         x="79.837563"
+         y="281.8645"
+         id="tspan4771">wandering off in the well)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="49.42857"
+       y="458.07648"
+       id="text4773"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4775"
+         x="49.42857"
+         y="458.07648">Wires: Multi-conductor wires</tspan><tspan
+         sodipodi:role="line"
+         x="49.42857"
+         y="476.82648"
+         id="tspan4777">Floater: 3D printed void piece</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-2)"
+       d="m 413.98657,272.51087 -45.71428,20"
+       id="path4779"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="416.33865"
+       y="266.46481"
+       id="text4781"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4783"
+         x="416.33865"
+         y="266.46481">pressure</tspan><tspan
+         sodipodi:role="line"
+         x="416.33865"
+         y="285.21481"
+         id="tspan4785">sensor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="43.714287"
+       y="29.505039"
+       id="text4973"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4975"
+         x="43.714287"
+         y="29.505039"
+         style="font-weight:bold">WELL WATER HEIGHT</tspan><tspan
+         sodipodi:role="line"
+         x="43.714287"
+         y="48.255039"
+         id="tspan4977"
+         style="font-weight:bold">SENSORY SETUP</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#333333;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4979"
+       width="57.142857"
+       height="35.714287"
+       x="45.857864"
+       y="123.45899" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="48.48732"
+       y="137.16397"
+       id="text4981"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4983"
+         x="48.48732"
+         y="137.16397">1S 3.7V</tspan><tspan
+         sodipodi:role="line"
+         x="48.48732"
+         y="155.91397"
+         id="tspan4985">Lipo</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 137.38075,177.57008 -68.690377,0 0,-17.67767"
+       id="path4989"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="46.224796"
+       y="511.42386"
+       id="text4991"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4993"
+         x="46.224796"
+         y="511.42386">NOTE: consider adding a series power resistor and measure additional:</tspan><tspan
+         sodipodi:role="line"
+         x="46.224796"
+         y="530.17383"
+         id="tspan4995">(a) battery voltage; (b)current </tspan></text>
+  </g>
+</svg>
